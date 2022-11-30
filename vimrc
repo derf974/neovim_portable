@@ -11,6 +11,7 @@ call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 " let Vundle manage Vundle, required
+Plugin 'preservim/nerdtree'
 Plugin 'gmarik/Vundle.vim'
 Plugin 'vim-scripts/fugitive.vim'
 Plugin 'vim-scripts/ctrlp.vim'
